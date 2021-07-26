@@ -1,8 +1,9 @@
 # Hi! 👋 My name is Ornella Meneghini.
 ## I'm a developer trainee and international trade technique.
-- 💬 Contact with me: meneghini.ornella@gmail.com
-- 🟦 Look my profile: https://www.linkedin.com/in/ornella-meneghini/
-### Languages and Tools:
+- 💬 Contact with me: **meneghini.ornella@gmail.com**
+- 🟦 Look my profile: **https://www.linkedin.com/in/ornella-meneghini/**
+##
+#### Languages and Tools:
 - HTML5
 - CSS3
 - JS
@@ -12,6 +13,7 @@
 - Flask
 - Markdown
 - Github
+
 ### ✔ #opentowork
 
 
