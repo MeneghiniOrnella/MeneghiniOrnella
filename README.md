@@ -1,5 +1,5 @@
 # Hi! 👋 My name is Ornella Meneghini.
-## I'm a developer trainee and international trade technique.
+## I'm a developer and international trade technique.
 - 💬 Contact with me: **meneghini.ornella@gmail.com**
 - 🟦 Look my profile: **https://www.linkedin.com/in/ornella-meneghini/**
 ##
