@@ -1,8 +1,8 @@
 # Hi! 👋 My name is Ornella Meneghini.
 ## I'm a developer and international trade technique.
-- 💬 Contact with me: **meneghini.ornella@gmail.com**
-- 🟦 Look my profile: **https://www.linkedin.com/in/ornella-meneghini/**
-- 😁 This is my page: **https://meneghiniornella.github.io/PortafolioCOMeneghini/**
+- 💬 [Contact with me] (meneghini.ornella@gmail.com)
+- 🟦 [Look my profile] (https://www.linkedin.com/in/ornella-meneghini/)
+- 😁 [This is my page] (https://meneghiniornella.github.io/PortafolioCOMeneghini/)
 ##
 #### Languages and Tools:
 - HTML5
