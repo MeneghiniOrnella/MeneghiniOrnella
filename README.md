@@ -1,8 +1,8 @@
 # Hi! 👋 My name is Ornella Meneghini.
 ## I'm a developer.
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[Contact with me](meneghini.ornella@gmail.com)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Look my profile](https://www.linkedin.com/in/ornella-meneghini/)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) [This is my page](https://meneghiniornella.github.io/PortafolioCOMeneghini/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ornella-meneghini/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://meneghiniornella.github.io/PortafolioCOMeneghini/)
 ##
 #### Languages:
 <p> 
@@ -11,8 +11,7 @@
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"></a>
-    <a href="#"><img src="https://img.icons8.com/dusk/64/000000/wordpress.png" alt="Wordpress"></a>
-    
+    <a href="#"><img src="https://img.icons8.com/dusk/64/000000/wordpress.png" alt="Wordpress"></a>    
 </p>
 
 #### Frameworks:
@@ -35,7 +34,6 @@
 
 ### ✔ [#opentowork](https://www.linkedin.com/in/ornella-meneghini/)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/MeneghiniOrnella/github-readme-stats)
 
 <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a>
 
