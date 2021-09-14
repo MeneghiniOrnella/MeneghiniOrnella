@@ -14,7 +14,7 @@
     
 </p>
 
-#### Frameworks
+#### Frameworks:
 <p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap"></a>
     <a href="#"><img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="Flask"></a>
