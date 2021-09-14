@@ -32,6 +32,7 @@
 
 ### ✔ [#opentowork](https://www.linkedin.com/in/ornella-meneghini/)
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a>
 
