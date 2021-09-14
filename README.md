@@ -1,9 +1,8 @@
 # Hi! 👋 My name is Ornella Meneghini.
 ## I'm a developer.
-- 💬 [Contact with me](meneghini.ornella@gmail.com)
-- 	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- 🟦 [Look my profile](https://www.linkedin.com/in/ornella-meneghini/)
-- 😁 [This is my page](https://meneghiniornella.github.io/PortafolioCOMeneghini/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[Contact with me](meneghini.ornella@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Look my profile](https://www.linkedin.com/in/ornella-meneghini/)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) [This is my page](https://meneghiniornella.github.io/PortafolioCOMeneghini/)
 ##
 #### Languages:
 <p> 
