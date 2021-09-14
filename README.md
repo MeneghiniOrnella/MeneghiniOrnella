@@ -1,6 +1,7 @@
 # Hi! 👋 My name is Ornella Meneghini.
 ## I'm a developer.
 - 💬 [Contact with me](meneghini.ornella@gmail.com)
+- 	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 🟦 [Look my profile](https://www.linkedin.com/in/ornella-meneghini/)
 - 😁 [This is my page](https://meneghiniornella.github.io/PortafolioCOMeneghini/)
 ##
@@ -11,6 +12,7 @@
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"></a>
+    <a href="#"><img src="https://img.icons8.com/dusk/64/000000/wordpress.png" alt="Wordpress"></a>
     
 </p>
 
@@ -28,7 +30,9 @@
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/github--v1.png" alt="Github"></a>
 </p>
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ### ✔ [#opentowork](https://www.linkedin.com/in/ornella-meneghini/)
 
