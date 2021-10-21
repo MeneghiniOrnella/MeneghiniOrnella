@@ -21,7 +21,7 @@
     <a href="#"><img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="Flask"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"></a>
-    <a href="https://icons8.com/icon/LA3C45Gu3mUU/atom" alt"react"></a>
+    <a href="#"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-atom-laboratory-justicon-flat-justicon.png" alt="react"></a>
 </p>
 
 #### Tools:
