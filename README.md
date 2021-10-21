@@ -7,21 +7,21 @@
 ##
 #### Languages:
 <p> 
-    <a href="#"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML"></a>
-    <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS"></a>
-    <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript"></a>
-    <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress"></a>    
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python"></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress" title?"Wordpress"></a>    
 </p>
 
 #### Frameworks & libraries:
 <p>
-    <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap"></a>
-    <a href="#"><img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="Flask"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"></a>
-    <a href="#"><img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="react"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
+    <a href="#"><img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="Flask" title="Flask"></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django"></a>
+    <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" title="Sass"></a>
+    <a href="#"><img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="React" title="React JS"></a>
 </p>
 
 #### Tools:
