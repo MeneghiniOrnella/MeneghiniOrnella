@@ -15,12 +15,13 @@
     <a href="#"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress"></a>    
 </p>
 
-#### Frameworks:
+#### Frameworks & libraries:
 <p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap"></a>
     <a href="#"><img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="Flask"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"></a>
+    <a href="https://icons8.com/icon/LA3C45Gu3mUU/atom" alt"react"></a>
 </p>
 
 #### Tools:
