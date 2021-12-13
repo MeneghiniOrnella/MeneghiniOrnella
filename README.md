@@ -1,5 +1,5 @@
 # Hi! 👋 My name is Ornella Meneghini.
-## I'm a developer.
+## I'm a full stack developer.
 #### Contact with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meneghiniornella/)
@@ -11,8 +11,9 @@
     <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress" title?"Wordpress"></a>    
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"></a>
+    <a href="#"><img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="Wordpress" title?"Wordpress"></a>
+    <a href="#"><img src="https://img.icons8.com/officel/50/000000/markdown.png" alt="markdown" title="markdown<"></a>
 </p>
 
 #### Frameworks & libraries:
@@ -35,7 +36,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -48,7 +48,9 @@
 ## **✔ #opentowork**
 
 <br><br><br>
-<a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a>
+<p>
+    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges by mehtaAnsh</a>
+</p>
 
 <!--
 **MeneghiniOrnella/MeneghiniOrnella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
