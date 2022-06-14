@@ -39,10 +39,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact)](https://github.com/aMeneghiniOrnella/github-readme-stats)
 
 <!-- ## **✔ #opentowork** -->
-
-<br><br><br>
+<br>
 <p>
     <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges by mehtaAnsh</a>
 </p>
