@@ -1,11 +1,19 @@
-# Hi! 👋 My name is Ornella Meneghini
-## Full Stack Developer
-#### Contact with me:
+<h1 align="center"><b>Hi there, I'm Ornella Meneghini <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<h2 align="center">Full Stack Developer</h2>
+
+#### Contact with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meneghiniornella/)
-##
-#### Languages, Frameworks y Libreries:
-<p> 
+
+<hr /> 
+
+#### About me
+In 2020, I decided to change the course of my career to a Full Stack Developer. I finished a degree in **international trade** because I had the objective and the perseverence to finish it. Currently, I learn different lenguages and information about the IT World.
+My objetive is becoming as a complete professional programmer as possible. That is why I always look for courses, videos and complementary texts which help me to grow up professionallly constantly.
+<br />
+
+#### Languages, Frameworks y Libreries
+<p align="center"> 
     <a href="#"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
@@ -20,8 +28,7 @@
     <a href="#"><img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="React" title="React JS"></a>
 </p>
 
-#### Tools:
-
+#### Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -39,10 +46,15 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact)](https://github.com/aMeneghiniOrnella/github-readme-stats)
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact)](https://github.com/aMeneghiniOrnella/github-readme-stats) -->
+
+<hr />
+<p align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MeneghiniOrnella&theme=radical&show_icons=true" width="410"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact&theme=radical" width="400" />
+</p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats 
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md -->
