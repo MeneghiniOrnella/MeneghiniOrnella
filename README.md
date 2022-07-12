@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi there, I'm Ornella Meneghini <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-<h2 align="center">Full Stack Developer</h2>
+<h1 align="center"><b>Hi, I'm Ornella Meneghini <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+<!-- <h2 align="center">Full Stack Developer</h2>-->
 
 #### Contact with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
@@ -8,9 +8,10 @@
 <hr /> 
 
 #### About me
-In 2020, I decided to change the course of my career to a Full Stack Developer. I finished a degree in **international trade** because I had the objective and the perseverence to finish it. Currently, I learn different lenguages and information about the IT World.
+In 2020, I decided to change the course of my career to a [![LinkedIn](https://img.shields.io/badge/-Full%20Stack%20Developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). I finished a degree in international trade because I had the objective and the perseverence to finish it. Currently, I learn different lenguages and information about the IT World.
+<br/>
 My objetive is becoming as a complete professional programmer as possible. That is why I always look for courses, videos and complementary texts which help me to grow up professionallly constantly.
-<br />
+<!-- https://shields.io --><br />
 
 #### Languages, Frameworks y Libreries
 <p align="center"> 
