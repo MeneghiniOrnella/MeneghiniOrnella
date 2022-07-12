@@ -54,7 +54,7 @@ My objetive is becoming as a complete professional programmer as possible. That 
 <hr />
 <p align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MeneghiniOrnella&theme=radical&show_icons=true" width="410"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact&theme=midnight-purple" width="450" />
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats 
