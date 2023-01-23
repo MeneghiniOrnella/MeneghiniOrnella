@@ -3,7 +3,7 @@
 ### Contact with me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meneghiniornella/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237209a9.svg?style=for-the-badge&logo=appveyor)]([https://www.linkedin.com/in/meneghiniornella/](https://meneghiniornella.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237209a9.svg?style=for-the-badge&logo=appveyor)](https://meneghiniornella.netlify.app/)
 <hr /> 
 
 ### About me
@@ -17,14 +17,14 @@ My objetive is becoming a complete professional programmer. That is why I always
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML">
     <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS">
     <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascript">
-    <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="React" title="React JS">
+    <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="React Js" title="React Js">
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node Js" title="Node Js" />
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" title="Vue JS"/>
-    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" title="Sass">
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue Js" title="Vue Js"/>
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" title="SASS">
     <img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python">
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL">
     <img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="Wordpress" title?"Wordpress">
-    <img src="https://img.icons8.com/officel/50/000000/markdown.png" alt="markdown" title="markdown">
+    <img src="https://img.icons8.com/officel/50/000000/markdown.png" alt="Markdown" title="mMrkdown">
     <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap">
     
 </p>
