@@ -57,8 +57,7 @@ My objetive is becoming a complete professional programmer. That is why I always
 </p>
 <br>
 <p>
-    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> | <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges by mehtaAnsh</a> | <a href="https://shields.io">Shields.io</a> |  <a href="https://github.com/anuraghazra/github-readme-stats 
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">Stats by anuraghazra</a>
+    <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> | <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges by mehtaAnsh</a> | <a href="https://shields.io">Shields.io</a> |  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">Stats by anuraghazra</a>
 </p>
 
 <!-- ## **✔ #opentowork** -->
