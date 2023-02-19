@@ -7,7 +7,7 @@
 <hr /> 
 
 ### About me
-In 2020, I decided to change the course of my career to a [![LinkedIn](https://img.shields.io/badge/-Full%20Stack%20Developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). I am studying a technical degree in ![LinkedIn](https://img.shields.io/badge/-systems%20analysis-informational) and I am working as a [![LinkedIn](https://img.shields.io/badge/-developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/).
+In 2020, I decided to change the course of my career to a [![LinkedIn](https://img.shields.io/badge/-Full%20Stack%20Developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). I am studying a technical degree and I am working as a [![LinkedIn](https://img.shields.io/badge/-developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/).
 Currently, I learn different lenguages and information about the IT World.
 <br/>
 My objetive is becoming a complete professional programmer. That is why I always look for courses, videos and complementary texts which help me to grow up professionally in a constant way.
