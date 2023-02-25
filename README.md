@@ -23,13 +23,16 @@ My objetive is becoming a complete professional programmer. That is why I always
     <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" title="SASS">
     <img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python">
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL">
-    <img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="Wordpress" title?"Wordpress">
-    <img src="https://img.icons8.com/officel/50/000000/markdown.png" alt="Markdown" title="mMrkdown">
+<!--     <img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="Wordpress" title?"Wordpress"> -->
+<!--     <img src="https://img.icons8.com/officel/50/000000/markdown.png" alt="Markdown" title="mMrkdown"> -->
     <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap">
     
 </p>
 
 ### Tools
+<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%237209b5.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -38,11 +41,12 @@ My objetive is becoming a complete professional programmer. That is why I always
 ![Outlook](https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-005555.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-darkgrey.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-critical.svg?style=for-the-badge&logo=npm&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-grey.svg?style=for-the-badge&logo=replit&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078e7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-critical.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-yellow.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 <hr />
