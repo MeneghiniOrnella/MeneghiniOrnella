@@ -16,11 +16,11 @@ My objetive is becoming a complete professional programmer. That is why I always
 <p align="center"> 
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML">
     <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS">
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" title="SASS">
     <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascript">
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue Js" title="Vue Js"/>
     <img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="React Js" title="React Js">
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node Js" title="Node Js" />
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue Js" title="Vue Js"/>
-    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" title="SASS">
     <img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python">
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL">
 <!--     <img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="Wordpress" title?"Wordpress"> -->
