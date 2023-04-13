@@ -4,12 +4,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meneghiniornella/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237209a9.svg?style=for-the-badge&logo=appveyor)](https://meneghiniornella.netlify.app/)
+[![Other portfolio](https://img.shields.io/badge/Other%20Portfolio-%237209a9.svg?style=for-the-badge&logo=appveyor)](https://meneghiniornella.github.io/portfolio/)
 <hr /> 
 
 ### About me
-In 2020, I decided to change the course of my career to a [![LinkedIn](https://img.shields.io/badge/-Full%20Stack%20Developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). I am studying a technical degree and I am working as a [![LinkedIn](https://img.shields.io/badge/-developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/).
-Currently, I learn different lenguages and information about the IT World.
-<br/>
+I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/).
+Currently,I'm working on Vue and SASS. I'm studying an programming technique degree.
+
 My objetive is becoming a complete professional programmer. That is why I always look for courses, videos and complementary texts which help me to grow up professionally in a constant way.
 
 ### Languages, Frameworks y Libreries
@@ -33,7 +34,6 @@ My objetive is becoming a complete professional programmer. That is why I always
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 ![JSON](https://img.shields.io/badge/JSON-gold?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%237209b5.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
