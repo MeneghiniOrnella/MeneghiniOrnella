@@ -11,10 +11,10 @@
 I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/).
 Currently,I'm working on Vue and SASS. I'm studying an programming technique degree.
 
-My objetive is becoming a complete professional programmer. That is why I always look for courses, videos and complementary texts which help me to grow up professionally in a constant way.
+My objetive is becoming a complete professional developer. That is why I always look for courses, videos and complementary texts.
 
 ### Languages, Frameworks y Libreries
-<p align="center"> 
+<p align="center">
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="HTML" title="HTML">
     <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS">
     <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS" title="SASS">
@@ -24,10 +24,7 @@ My objetive is becoming a complete professional programmer. That is why I always
     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node Js" title="Node Js" />
     <img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python">
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL">
-<!--     <img src="https://img.icons8.com/color/50/000000/wordpress.png" alt="Wordpress" title?"Wordpress"> -->
-<!--     <img src="https://img.icons8.com/officel/50/000000/markdown.png" alt="Markdown" title="mMrkdown"> -->
     <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap">
-    
 </p>
 
 ### Tools
@@ -56,36 +53,10 @@ My objetive is becoming a complete professional programmer. That is why I always
 <!-- Nowadays, my favourite language is ![Javascript](https://img.shields.io/badge/-javascript-F1E05A) -->
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=MeneghiniOrnella&theme=radical&show_icons=true" width="410"/> -->
-<img src="https://github-readme-stats.vercel.app/api/?username=MeneghiniOrnella&layout=compact&title_color=a37fa4&text_color=e0d4e1&hide_border=true&langs_count=6&theme=synthwave" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact&title_color=a37fa4&text_color=e0d4e1&hide_border=true&langs_count=6&theme=synthwave" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=MeneghiniOrnella&layout=compact&title_color=a37fa4&text_color=e0d4e1&hide_border=true&langs_count=6&theme=synthwave" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact&title_color=a37fa4&text_color=e0d4e1&hide_border=true&langs_count=6&theme=synthwave" width="400" />
 </p>
 <br>
 <p>
     <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> | <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges by mehtaAnsh</a> | <a href="https://shields.io">Shields.io</a> |  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">Stats by anuraghazra</a>
 </p>
-
-<!-- ## **✔ #opentowork** -->
-<!--
-**MeneghiniOrnella/MeneghiniOrnella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact)](https://github.com/aMeneghiniOrnella/github-readme-stats) -->
-
-<!-- ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) -->
-
-<!-- <a href="#"><img src="https://img.icons8.com/fluency/48/000000/test-tube.png" alt="Flask" title="Flask"></a>
-    <a href="#"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django"></a> -->
