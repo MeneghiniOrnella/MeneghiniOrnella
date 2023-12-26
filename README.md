@@ -8,8 +8,7 @@
 <hr /> 
 
 ### About me
-I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/).
-Currently,I'm working on Vue and SASS. I'm studying an programming technique degree.
+I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). I'm studying an programming technique degree.
 
 My objetive is becoming a complete professional developer. That is why I always look for courses, videos and complementary texts.
 
