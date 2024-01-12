@@ -4,7 +4,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](meneghini.ornella@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meneghiniornella/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237209a9.svg?style=for-the-badge&logo=appveyor)](https://meneghiniornella.netlify.app/)
-[![Other portfolio](https://img.shields.io/badge/Other%20Portfolio-%237209a9.svg?style=for-the-badge&logo=appveyor)](https://meneghiniornella.github.io/portfolio/)
 <hr /> 
 
 ### About me
