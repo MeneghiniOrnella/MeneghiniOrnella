@@ -23,6 +23,7 @@ My objetive is becoming a complete professional developer. That is why I always 
     <img src="https://img.icons8.com/color/50/000000/python--v1.png" alt="Python" title="Python">
     <img src="https://img.icons8.com/color/50/000000/mysql-logo.png" alt="MySQL" title="MySQL">
     <img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap">
+    <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 </p>
 
 ### Tools
