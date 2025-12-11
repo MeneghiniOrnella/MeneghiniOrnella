@@ -47,7 +47,7 @@ My objetive is becoming a complete professional developer. That is why I always 
 ![Windows](https://img.shields.io/badge/Windows-0a064d?style=for-the-badge&logo=windows&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-critical.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-yellow.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/yarn-yellow.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub%20Copilot%20-%20blue)
 <hr />
 
 ### Other information
