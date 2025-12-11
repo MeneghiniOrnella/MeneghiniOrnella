@@ -47,17 +47,17 @@ My objetive is becoming a complete professional developer. That is why I always 
 ![Windows](https://img.shields.io/badge/Windows-0a064d?style=for-the-badge&logo=windows&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-critical.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-yellow.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub%20Copilot%20-%20blue)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-7c2d37.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <hr />
 
-### Other information
+<!-- ### Other information -->
 <!-- Nowadays, my favourite language is ![Javascript](https://img.shields.io/badge/-javascript-F1E05A) -->
 
-<p align="center">
+<!--<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=MeneghiniOrnella&layout=compact&title_color=a37fa4&text_color=e0d4e1&hide_border=true&langs_count=6&theme=synthwave" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeneghiniOrnella&layout=compact&title_color=a37fa4&text_color=e0d4e1&hide_border=true&langs_count=6&theme=synthwave" width="400" />
 </p>
 <br>
 <p>
     <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass">Icons by Icons8</a> | <a href="https://github.com/Ileriayo/markdown-badges">Markdown badges by mehtaAnsh</a> | <a href="https://shields.io">Shields.io</a> |  <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_es.md">Stats by anuraghazra</a>
-</p>
+</p> -->
