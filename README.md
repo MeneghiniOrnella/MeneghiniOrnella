@@ -7,7 +7,7 @@
 <hr /> 
 
 ### About me
-I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). I'm studying an programming technique degree.
+I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). In December 2025 I completed a university technical degree in programming.
 
 My objetive is becoming a complete professional developer. That is why I always look for courses, videos and complementary texts.
 
@@ -47,7 +47,7 @@ My objetive is becoming a complete professional developer. That is why I always 
 ![Windows](https://img.shields.io/badge/Windows-0a064d?style=for-the-badge&logo=windows&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-critical.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-yellow.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
+![GitHub Copilot](https://img.shields.io/badge/yarn-yellow.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <hr />
 
 ### Other information
