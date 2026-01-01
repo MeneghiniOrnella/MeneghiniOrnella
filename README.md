@@ -7,9 +7,11 @@
 <hr /> 
 
 ### About me
-I am a [![LinkedIn](https://img.shields.io/badge/-web%20developer-%237209b7)](https://www.linkedin.com/in/meneghiniornella/). In December 2025 I completed a university technical degree in programming.
+I am a <b>Full Stack Web Developer</b> with a technical background in programming and professional experience in web development. In 2025, I graduated with a Technical Degree in Programming from CAECE University, strengthening my foundation in software development, logic, and best practices.
 
-My objetive is becoming a complete professional developer. That is why I always look for courses, videos and complementary texts.
+I work across both frontend and backend development, adapting to different technologies and project requirements. I focus on building clear, maintainable, and scalable solutions with an emphasis on code quality and user experience.
+
+I am a curious and persistent developer, committed to continuous learning and long-term professional growth.
 
 ### Languages, Frameworks y Libreries
 <p align="center">
